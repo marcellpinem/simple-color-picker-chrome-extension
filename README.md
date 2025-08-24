@@ -24,7 +24,8 @@ _(Klik badge untuk menonton demo)_
 
 1.  **Clone Repository**:
     ```bash
-    git clone [https://github.com/marcellpinem/color-picker-extension.git](https://github.com/marcellpinem/color-picker-extension.git)
+    git clone https://github.com/marcellpinem/simple-color-picker-chrome-extension.git
+    cd simple-picker-chrome-extension
     ```
 2.  Buka **Google Chrome** and pergi ke `chrome://extensions`.
 3.  Nyalakan **"Developer mode"** di sudut kanan atas.
