@@ -2,7 +2,7 @@
 
 Sebuah ekstensi Chrome yang sederhana dan ringan yang memungkinkan Anda mengambil warna dari halaman web mana pun menggunakan EyeDropper API serta mengelola warna yang telah Anda pilih.
 
-[![Watch the demo](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)]()
+[![Watch the demo](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://youtu.be/AfB1c4pM1-E)
 _(Klik badge untuk menonton demo)_
 
 ---
